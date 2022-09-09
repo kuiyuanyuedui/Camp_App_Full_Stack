@@ -1,0 +1,25 @@
+{
+  "name": "camp_app_full_stack",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kuiyuanyuedui/Camp_App_Full_Stack.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kuiyuanyuedui/Camp_App_Full_Stack/issues"
+  },
+  "homepage": "https://github.com/kuiyuanyuedui/Camp_App_Full_Stack#readme",
+  "dependencies": {
+    "ejs": "^3.1.8",
+    "express": "^4.18.1",
+    "mongoose": "^6.6.0"
+  }
+}
